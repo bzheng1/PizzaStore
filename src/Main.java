@@ -50,20 +50,5 @@ public class Main  {
         PersonA.join();
         PersonB.join();
         PersonC.join();
-        //System.exit(0);
     }
-
-
-//    public static void ordering(){
-//        System.out.println(" is being read and placed in oven.");
-//        personSem.release();
-//    }
-//
-//    public static void handOver(){
-//        System.out.println(Thread.currentThread().getName() + "is being handed over to quality control.");
-//    }
-//    public static void finished(){
-//        System.out.println(Thread.currentThread().getName() + "is being handed over to customer.");
-//    }
-
 }
